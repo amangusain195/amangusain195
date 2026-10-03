@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://explorepauri.free.je/">
-    
+   <img src="https://img.shields.io/badge/Explore%20Pauri-Website-228B22?style=for-the-badge" alt="Explore Pauri"/> 
   </a>
 </p>
 
