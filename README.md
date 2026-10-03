@@ -1,57 +1,153 @@
+<h1 align="center">Hi, I'm Aman Gusain 👋</h1>
 
-  <tr>
-    <td align="left" width="30%">
-      <strong>Hi, I’m Kumod 👋</strong>
-    </td>
-    <td align="center" width="70%">
-      <h1>Data Science Trainer | Applied Data Analytics</h1>
-    </td>
-  </tr>
-</table>
+<h3 align="center">Digital Marketing | SEO | Content & Social Media</h3>
 
-       
-<img src="https://komarev.com/ghpvc/?username=amangusain195&style=flat-square&color=blue" alt=""/>
-
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
-</div>
-<div align="center">
-<div id="badges">
-  <a href="https://www.linkedin.com/in/kumod-sharma-ab999124b/">
-    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p align="center">
+  <a href="https://amangusianportfolio.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-0A66C2?style=for-the-badge" alt="Portfolio"/>
   </a>
-  <a href="https://www.kaggle.com/kdsharma">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=black" alt="Kaggle Badge"/>
+  <a href="https://www.linkedin.com/in/aman-gusain-286619279/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.hackerrank.com/Kumod_Sharma?hr_r=1">
-    <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
-  </a></div></div>
+  <a href="https://explorepauri.free.je/">
+    <img src="https://img.shields.io/badge/Explore%20Pauri-Website-228B22?style=for-the-badge" alt="Explore Pauri"/>
+  </a>
+</p>
 
+---
 
+## 🚀 About Me
 
-<h1>About Me ❤️</h1>
+I'm a motivated **Digital Marketing professional** based in **Dehradun, Uttarakhand**, with a Bachelor of Arts degree and a strong interest in SEO, content, social media and website management.
 
-- 💡 Data Science Enthusiast with a background in Mathematics.
-- 🎓 Accomplished the requirements for a prestigious Diploma in Data Science.
-- 🏢 Currently employed as a Data Analyst in a Marketing Research company.
-- ⚡ In my free time, I love to solve problems on HackerRank and read tech articles.
-- 😆 Fun fact: If data science were a sport, I'd be the MVP of finding patterns in numbers and predicting the future!
-- 📫 How to reach me: <a href="mailto:kumod.aws@gmail.com">kumod.aws@gmail.com</a> | or connect with me on <a href="https://www.linkedin.com/in/kumod-sharma/">My LinkedIn.</a>
-- <p>✍️ Check out my blogs on topics related to data science. You can find them on my <a href="https://medium.com/@kumod.aws">blog profile</a>.</p>
+I enjoy learning digital marketing tools and applying them to real-world projects. I'm currently focused on building my practical skills and growing as a Digital Marketing professional.
 
-<br>
-<br>
+* 🎓 Bachelor of Arts (B.A.) – PG College, Kotdwar | 2025
+* 📍 Dehradun, Uttarakhand
+* 💼 Digital Marketing Intern
+* 🔍 Interested in SEO, Content Marketing & Social Media Marketing
+* 📈 Learning website optimization and digital marketing analytics
+* 💡 Quick learner with a positive and responsible attitude
+* 🌐 Interested in building and managing websites and digital projects
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+---
 
+## 💻 Digital Marketing Skills
 
-<br>
-<br>
+### 🔎 SEO
 
-# :fire: My Stats:
+* Search Engine Optimization (SEO)
+* Keyword Research
+* On-Page SEO
+* Website Content Optimization
+* Competitor Research
+* Google Search Console
+* Google Business Profile
 
+### 📱 Social Media & Content
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kumod007&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+* Social Media Marketing
+* Social Media Content Planning
+* Content Writing
+* Digital Content Management
+* Social Media Strategy Basics
 
+### 📊 Analytics & Advertising
+
+* Google Analytics 4 (GA4) – Basic
+* Google Ads – Basic Concepts
+* Google Keyword Planner – Basic
+* Basic Digital Marketing Reporting
+
+### 🌐 Website Management
+
+* WordPress
+* Website Content Management
+* Basic website optimization
+
+### 🖥️ Additional Skills
+
+* MS Word
+* MS Excel
+* Data Entry
+* Documentation
+* Basic Computer Operations
+* Communication Skills
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="left">
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keyword%20Planner-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Business%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+</p>
+
+---
+
+## 🌟 Featured Project
+
+### 🏔️ Explore Pauri
+
+**Explore Pauri** is a tourism-focused website showcasing the beauty, culture, history and travel experiences of Pauri Garhwal, Uttarakhand.
+
+The project includes travel content, tourist destinations, local culture, travel information and digital content designed to promote Pauri Garhwal.
+
+🌐 **Website:**
+https://explorepauri.free.je/
+
+---
+
+## 🌐 My Portfolio
+
+Want to know more about my skills, projects and digital marketing journey?
+
+👉 **Visit my portfolio:**
+https://amangusainportfolio.lovable.app/
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aman-gusain-286619279/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aman%20Gusain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+📧 **Email:** [amangusain195@gmail.com](mailto:amangusain195@gmail.com)
+
+📍 **Location:** Dehradun, Uttarakhand, India
+
+---
+
+## 📌 Currently Learning
+
+* Advanced SEO
+* Technical SEO
+* Digital Marketing Analytics
+* Google Ads
+* Content Marketing
+* Social Media Marketing
+* Website Optimization
+* AI Tools for Digital Marketing
+
+---
+
+## ⚡ Fun Fact
+
+I believe digital marketing is not just about promoting something — it's about understanding the audience, creating useful content and connecting the right people with the right information.
+
+---
+
+<h3 align="center">Thanks for visiting my profile! 🚀</h3>
+
+<p align="center">
+  <i>Let's connect, learn and grow together.</i>
+</p>
